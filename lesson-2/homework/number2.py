@@ -1,0 +1,5 @@
+a=float(input('Son kirting: '))
+b=float(input('2-sonni kirting: '))
+c=float(input('3-sonni kirting: '))
+print(max(a,b,c))
+print(min(a,b,c))
