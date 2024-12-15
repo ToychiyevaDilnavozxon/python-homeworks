@@ -1,0 +1,5 @@
+a=str(input("Biror so'z kiriting: "))
+print(len(a))
+b=a.lower()
+c=a.upper()
+print(b,c)
