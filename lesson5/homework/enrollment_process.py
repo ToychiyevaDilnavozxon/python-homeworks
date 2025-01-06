@@ -8,7 +8,7 @@ universities = [
     ['Yale', 11701, 40500]
 ]
 
-# Function to extract student enrollment and tuition fees
+
 def enrollment_stats(uni_list):
     students = []
     tuition_fee = []
